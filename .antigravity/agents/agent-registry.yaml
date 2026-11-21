@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-extraordinary-rendition-victims-canal-and-intervention-historian
-  name: Extraordinary Rendition Victims Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-extraordinary-rendition-victims-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_er_001
+    name: Extraordinary Rendition Victims Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_002
+    name: Extraordinary Rendition Victims Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_003
+    name: Extraordinary Rendition Victims Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_004
+    name: Extraordinary Rendition Victims Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_005
+    name: Extraordinary Rendition Victims Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_006
+    name: Extraordinary Rendition Victims Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_007
+    name: Extraordinary Rendition Victims Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_008
+    name: Extraordinary Rendition Victims Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_009
+    name: Extraordinary Rendition Victims Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_010
+    name: Extraordinary Rendition Victims Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_011
+    name: Extraordinary Rendition Victims Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_012
+    name: Extraordinary Rendition Victims Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_013
+    name: Extraordinary Rendition Victims Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_014
+    name: Extraordinary Rendition Victims Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_015
+    name: Extraordinary Rendition Victims Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_016
+    name: Extraordinary Rendition Victims Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_017
+    name: Extraordinary Rendition Victims Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_018
+    name: Extraordinary Rendition Victims Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_019
+    name: Extraordinary Rendition Victims Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_020
+    name: Extraordinary Rendition Victims Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_021
+    name: Extraordinary Rendition Victims Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_022
+    name: Extraordinary Rendition Victims Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_023
+    name: Extraordinary Rendition Victims Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_024
+    name: Extraordinary Rendition Victims Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_025
+    name: Extraordinary Rendition Victims Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_026
+    name: Extraordinary Rendition Victims Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_027
+    name: Extraordinary Rendition Victims Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_028
+    name: Extraordinary Rendition Victims Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_029
+    name: Extraordinary Rendition Victims Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_030
+    name: Extraordinary Rendition Victims Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_031
+    name: Extraordinary Rendition Victims Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_032
+    name: Extraordinary Rendition Victims Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_033
+    name: Extraordinary Rendition Victims Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_034
+    name: Extraordinary Rendition Victims Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_035
+    name: Extraordinary Rendition Victims Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_036
+    name: Extraordinary Rendition Victims Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_037
+    name: Extraordinary Rendition Victims Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_038
+    name: Extraordinary Rendition Victims Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_039
+    name: Extraordinary Rendition Victims Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_040
+    name: Extraordinary Rendition Victims Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_041
+    name: Extraordinary Rendition Victims Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_042
+    name: Extraordinary Rendition Victims Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_043
+    name: Extraordinary Rendition Victims Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_044
+    name: Extraordinary Rendition Victims Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_045
+    name: Extraordinary Rendition Victims Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_046
+    name: Extraordinary Rendition Victims Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_047
+    name: Extraordinary Rendition Victims Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_048
+    name: Extraordinary Rendition Victims Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_049
+    name: Extraordinary Rendition Victims Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_050
+    name: Extraordinary Rendition Victims Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_051
+    name: Extraordinary Rendition Victims Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_052
+    name: Extraordinary Rendition Victims Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_053
+    name: Extraordinary Rendition Victims Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_054
+    name: Extraordinary Rendition Victims Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_055
+    name: Extraordinary Rendition Victims Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_056
+    name: Extraordinary Rendition Victims Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_057
+    name: Extraordinary Rendition Victims Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_058
+    name: Extraordinary Rendition Victims Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_059
+    name: Extraordinary Rendition Victims Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_060
+    name: Extraordinary Rendition Victims Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_061
+    name: Extraordinary Rendition Victims Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_062
+    name: Extraordinary Rendition Victims Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_063
+    name: Extraordinary Rendition Victims Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_064
+    name: Extraordinary Rendition Victims Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_065
+    name: Extraordinary Rendition Victims Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_066
+    name: Extraordinary Rendition Victims Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_067
+    name: Extraordinary Rendition Victims Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_068
+    name: Extraordinary Rendition Victims Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_069
+    name: Extraordinary Rendition Victims Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_070
+    name: Extraordinary Rendition Victims Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_071
+    name: Extraordinary Rendition Victims Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_072
+    name: Extraordinary Rendition Victims Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_073
+    name: Extraordinary Rendition Victims Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_074
+    name: Extraordinary Rendition Victims Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_075
+    name: Extraordinary Rendition Victims Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_076
+    name: Extraordinary Rendition Victims Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_077
+    name: Extraordinary Rendition Victims Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_078
+    name: Extraordinary Rendition Victims Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_079
+    name: Extraordinary Rendition Victims Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_080
+    name: Extraordinary Rendition Victims Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_081
+    name: Extraordinary Rendition Victims Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_082
+    name: Extraordinary Rendition Victims Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_083
+    name: Extraordinary Rendition Victims Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_084
+    name: Extraordinary Rendition Victims Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_085
+    name: Extraordinary Rendition Victims Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_086
+    name: Extraordinary Rendition Victims Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_087
+    name: Extraordinary Rendition Victims Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_088
+    name: Extraordinary Rendition Victims Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_089
+    name: Extraordinary Rendition Victims Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_090
+    name: Extraordinary Rendition Victims Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_091
+    name: Extraordinary Rendition Victims Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_092
+    name: Extraordinary Rendition Victims Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_093
+    name: Extraordinary Rendition Victims Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_094
+    name: Extraordinary Rendition Victims Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_095
+    name: Extraordinary Rendition Victims Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_096
+    name: Extraordinary Rendition Victims Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_097
+    name: Extraordinary Rendition Victims Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_098
+    name: Extraordinary Rendition Victims Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_099
+    name: Extraordinary Rendition Victims Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_100
+    name: Extraordinary Rendition Victims Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_101
+    name: Extraordinary Rendition Victims Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_102
+    name: Extraordinary Rendition Victims Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_103
+    name: Extraordinary Rendition Victims Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_104
+    name: Extraordinary Rendition Victims Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_105
+    name: Extraordinary Rendition Victims Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_106
+    name: Extraordinary Rendition Victims Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_107
+    name: Extraordinary Rendition Victims Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_108
+    name: Extraordinary Rendition Victims Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_109
+    name: Extraordinary Rendition Victims Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_110
+    name: Extraordinary Rendition Victims Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_111
+    name: Extraordinary Rendition Victims Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_112
+    name: Extraordinary Rendition Victims Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_113
+    name: Extraordinary Rendition Victims Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_114
+    name: Extraordinary Rendition Victims Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_115
+    name: Extraordinary Rendition Victims Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_116
+    name: Extraordinary Rendition Victims Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_117
+    name: Extraordinary Rendition Victims Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_118
+    name: Extraordinary Rendition Victims Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_119
+    name: Extraordinary Rendition Victims Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_120
+    name: Extraordinary Rendition Victims Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_121
+    name: Extraordinary Rendition Victims Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_122
+    name: Extraordinary Rendition Victims Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_123
+    name: Extraordinary Rendition Victims Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_124
+    name: Extraordinary Rendition Victims Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_125
+    name: Extraordinary Rendition Victims Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_126
+    name: Extraordinary Rendition Victims Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_127
+    name: Extraordinary Rendition Victims Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_128
+    name: Extraordinary Rendition Victims Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_129
+    name: Extraordinary Rendition Victims Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_130
+    name: Extraordinary Rendition Victims Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_131
+    name: Extraordinary Rendition Victims Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_132
+    name: Extraordinary Rendition Victims Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_133
+    name: Extraordinary Rendition Victims Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_134
+    name: Extraordinary Rendition Victims Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_135
+    name: Extraordinary Rendition Victims Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_136
+    name: Extraordinary Rendition Victims Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_137
+    name: Extraordinary Rendition Victims Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_138
+    name: Extraordinary Rendition Victims Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_139
+    name: Extraordinary Rendition Victims Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_140
+    name: Extraordinary Rendition Victims Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_141
+    name: Extraordinary Rendition Victims Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_142
+    name: Extraordinary Rendition Victims Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_143
+    name: Extraordinary Rendition Victims Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_144
+    name: Extraordinary Rendition Victims Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_145
+    name: Extraordinary Rendition Victims Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_146
+    name: Extraordinary Rendition Victims Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_147
+    name: Extraordinary Rendition Victims Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_148
+    name: Extraordinary Rendition Victims Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_149
+    name: Extraordinary Rendition Victims Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_150
+    name: Extraordinary Rendition Victims Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_151
+    name: Extraordinary Rendition Victims Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_152
+    name: Extraordinary Rendition Victims Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_153
+    name: Extraordinary Rendition Victims Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_154
+    name: Extraordinary Rendition Victims Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_155
+    name: Extraordinary Rendition Victims Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_156
+    name: Extraordinary Rendition Victims Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_157
+    name: Extraordinary Rendition Victims Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_158
+    name: Extraordinary Rendition Victims Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_159
+    name: Extraordinary Rendition Victims Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_160
+    name: Extraordinary Rendition Victims Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_161
+    name: Extraordinary Rendition Victims Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_162
+    name: Extraordinary Rendition Victims Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_163
+    name: Extraordinary Rendition Victims Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_164
+    name: Extraordinary Rendition Victims Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_165
+    name: Extraordinary Rendition Victims Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_166
+    name: Extraordinary Rendition Victims Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_167
+    name: Extraordinary Rendition Victims Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_168
+    name: Extraordinary Rendition Victims Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_169
+    name: Extraordinary Rendition Victims Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_er_170
+    name: Extraordinary Rendition Victims Agent 170
+    status: ACTIVE_SCAFFOLD
