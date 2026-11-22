@@ -25,3 +25,16 @@
 | 2026-11-22 | National_Security_Archive.html | https://nsarchive.gwu.edu/ | OpenCode/harvest | b91450c7e123b196eb4f27ed14bd7c7254bb16ac32df02ef99da83336c491685 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=68437 |
 | 2026-11-22 | CIA FOIA Reading Room | https://www.cia.gov/reading-room/ | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
 | 2026-11-22 | ICRC Detention Resources | https://www.icrc.org/en/war-and-law/detention | OpenCode/harvest | N/A | CAPTURE_FAILED | HTTP Error 404: Not Found |
+| 2026-11-22 | HathiTrust_Digital_Library_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | 97d0fa47f0ba54b16499b9f3032dbbdd520b720c2d632fe8180837d11b6e004f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60066 final_url=https://babel.hathitrust.org/cgi/mb |
+
+| 2026-11-22 | Chronicling_America_LOC_browser.html | https://chroniclingamerica.loc.gov/ | OpenCode/browser-fallback | 278136037714ce8fdd265e34218ee915842e5e47a44dd74f1aabf198ff14d2bd | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/collections/chronicling-america/ |
+
+| 2026-11-22 | UN_Digital_Library_browser.html | https://digitallibrary.un.org/ | OpenCode/browser-fallback | 630526479d94fee99f80654e69d584582c8107033e4970c01e84c70583c37989 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=26733 final_url=https://digitallibrary.un.org/ |
+
+| 2026-11-22 | Justia_browser.html | https://www.justia.com/ | OpenCode/browser-fallback | c18c7cbdb3e25684176911dd379dcf824ae4637a2fe64961afb2d9054f6bfb89 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60027 final_url=https://www.justia.com/ |
+
+| 2026-11-22 | CourtListener_browser.html | https://www.courtlistener.com/ | OpenCode/browser-fallback | 4cd2eb67c8a05d7fd93a366797e8a70ce8c0692d2498e5a55aa8e6581b472665 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=52213 final_url=https://www.courtlistener.com/ |
+
+| 2026-11-22 | Senate_Intelligence_Committee_-_Torture_Report_browser.html | https://www.intelligence.senate.gov/study/cia-detention-and-interrogation-program | OpenCode/browser-fallback | 22c9ca931b10b602fe9e468a1d48a56fca7c12f67aa8b0ef1605781d922c2b06 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60002 final_url=https://www.intelligence.senate.gov/study/cia-detention-and-interrogation-program |
+
+| 2026-11-22 | UN_OHCHR_-_Torture_browser.html | https://www.ohchr.org/en/torture | OpenCode/browser-fallback | 0d98b1409527a47655d69d1c8886a14adb092a457f1d4830cb297fd7706ee818 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60020 final_url=https://www.ohchr.org/en/torture |

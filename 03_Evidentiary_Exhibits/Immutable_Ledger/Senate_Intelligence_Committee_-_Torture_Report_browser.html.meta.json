@@ -1,0 +1,15 @@
+{
+  "url": "https://www.intelligence.senate.gov/study/cia-detention-and-interrogation-program",
+  "final_url": "https://www.intelligence.senate.gov/study/cia-detention-and-interrogation-program",
+  "title": "Senate Intelligence Committee - Torture Report",
+  "fetched_at": "2026-11-22T21:10:04.898876Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "Browser outerHTML capture; HTTP status not captured by eval fallback. Do not treat as authenticated or verified.",
+  "content_type": "text/html; browser-rendered",
+  "bytes": 60002,
+  "sha256": "22c9ca931b10b602fe9e468a1d48a56fca7c12f67aa8b0ef1605781d922c2b06",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "capture_method": "opencode-browse-extension+eval.outerHTML"
+}
